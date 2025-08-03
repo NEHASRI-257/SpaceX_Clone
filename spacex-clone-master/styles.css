@@ -211,7 +211,7 @@ section.active div.content{
 section div.content{
     position: absolute;
     left: 50px;
-    max-width: 700px;
+    max-width: 350px;
     opacity:0;
     bottom:10vh;
     transition: all .5s linear;
@@ -324,8 +324,7 @@ footer nav a:hover{
 }
 
 .hero-section .content h2 {
-    font-size: 72px;
-    font-family: Barlow Condensed;
+    font-size: 150px;
     margin: 0 0 20px 0;
     line-height: 1.1;
 }
