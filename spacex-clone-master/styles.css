@@ -312,8 +312,7 @@ footer nav a:hover{
     position: relative;
     z-index: 1;
 }
-
-.hero-section .content {
+video-section.hero-section .content {
     position: absolute;
     left: 8vw;
     bottom: 30vh;
@@ -323,19 +322,19 @@ footer nav a:hover{
     text-align: left;
 }
 
-.hero-section .content h2 {
+video-section.hero-section .content h2 {
     font-size: 150px;
     margin: 0 0 20px 0;
     line-height: 1.1;
 }
 
-.hero-section .content p {
+video-section.hero-section .content p {
     font-size: 18px;
     color: rgba(255,255,255,0.95);
     line-height: 1.4;
 }
 
-.hero-section .content a {
+video-section.hero-section .content a {
     margin-top: 30px;
 }
 
