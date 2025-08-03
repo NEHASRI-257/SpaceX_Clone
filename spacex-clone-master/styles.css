@@ -299,7 +299,7 @@ footer nav a:hover{
     pointer-events: none; /* Prevents accidental clicks */
     
     /* 🔍 Zoom-in effect */
-    transform: scale(1.3); 
+    transform: scale(1.2); 
     transform-origin: center center;
 }
 
