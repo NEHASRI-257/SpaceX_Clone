@@ -211,7 +211,7 @@ section.active div.content{
 section div.content{
     position: absolute;
     left: 50px;
-    max-width: 360px;
+    max-width: 700px;
     opacity:0;
     bottom:10vh;
     transition: all .5s linear;
