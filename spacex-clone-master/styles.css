@@ -222,10 +222,9 @@ section div.content h2{
     margin:0;
 }
 section div.content p{
-    font-family: Open Sans ;
-    font-size: 18px;  
+    font-size: 10px;  
     font-weight: 400;
-    color: rgba(255,255,255,0.85);
+    color: rgba(255,255,255,0.5);
     
     margin: 0 0 10px;
 }
